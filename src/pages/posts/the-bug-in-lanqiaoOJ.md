@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '蓝桥杯在线练习系统的Bug?'
-pubDate: 2023-03-1
+pubDate: 2023-03-15
 description: 'print(input())'
 author: '混沌爬行者'
 cover:

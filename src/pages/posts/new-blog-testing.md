@@ -8,7 +8,7 @@ cover:
     url: 'https://www.z4a.net/images/2023/03/11/f80b5cea0ec62891e3e3c618c4d8319e.png'
     square: 'https://www.z4a.net/images/2023/03/11/f80b5cea0ec62891e3e3c618c4d8319e.png'
     alt: 'cover'
-tags: ["博客测试", "混沌爬行者的碎碎念"]
+tags: ["混沌爬行者的碎碎念"]
 theme: 'light'
 featured: false
 ---
