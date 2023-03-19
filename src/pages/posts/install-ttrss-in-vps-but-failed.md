@@ -30,5 +30,5 @@ featured: false
         3. [awesome-ttrss官方文档](https://ttrss.henry.wang/zh/#%E5%85%B3%E4%BA%8E)
         4. [Tiny Tiny RSS最新安装与使用教程-Awesome TTRSS Docker安装配置方法](https://wzfou.com/ttrss-docker/)
 ## 总结
-~~我怎么感觉自己第一次只要整懂了那个60错误是怎么回事就完事了呢~~,不过除了这个之外我也没有搞懂docker该怎么操作,以及怎么用ngnix,十分的失败
+~~我怎么感觉自己第一次只要整懂了那个60错误是怎么回事就完事了呢~~也许是因为我没有整域名或者什么ssl证书?,不过除了这个之外我也没有搞懂docker该怎么操作,以及怎么用ngnix,十分的失败
 
