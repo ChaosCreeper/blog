@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '尝试在云服务器上搭建ttrss但是知难而退了!'
+title: '尝试在云服务器上搭建ttrss但是知难而退了!所以FreshRSS真方便!'
 pubDate: 2023-03-19
-description: '尝试在没有域名的腾讯云服务器上搭建rss服务但是因为麻烦事情太多所以先不干了!'
+description: '尝试在没有域名的腾讯云服务器上搭建rss服务但是因为麻烦事情太多所以先不干了!最后了解了一大堆东西之后还是FressRSS好装!'
 author: '混沌爬行者'
 cover:
     url: 'https://www.z4a.net/images/2023/03/19/-2023-03-19-201556.png'
@@ -32,3 +32,5 @@ featured: false
 ## 总结
 ~~我怎么感觉自己第一次只要整懂了那个60错误是怎么回事就完事了呢~~也许是因为我没有整域名或者什么ssl证书?,不过除了这个之外我也没有搞懂docker该怎么操作,以及怎么用ngnix,十分的失败
 
+## 最后的最后
+- 好了,我放弃整那一大堆的东西了,让那些东西见鬼去吧,FreshRSS真是方便好用,按照这个[链接](https://veryjack.com/technique/docker-install-freshrss/)去安装FreshRSS就可以了,你甚至不用去安装链接内的面板,直接装好启动初始化就行了!
