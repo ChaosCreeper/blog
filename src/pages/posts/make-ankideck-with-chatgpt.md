@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '使用chatgpt生成简单的Oxford5000的anki卡片'
-pubDate: 2023-04-07
+pubDate: 2023-04-17
 description: '核电煮水式批量生成anki单词卡'
 author: '混沌爬行者'
 cover:
